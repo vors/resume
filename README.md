@@ -77,7 +77,7 @@ Technologies:
 - Python, Web (CSS, HTML, Bootstrap), Django, PostgreSQL, ORM, Jinja2, Linux, Git, GitHub
 
 
-# Professional experience
+## Professional experience
 
 ### Whole Foods Market, Inc., Seattle, WA, USA
 Team Member (February 2023 - Present)
@@ -85,9 +85,9 @@ Team Member (February 2023 - Present)
 Deputy Director of Department (August 2009 - December 2020)
 Managed corporate governance and shareholder relations, demonstrating leadership and project management skills.
 
-# Education
-## Coursera.org Certificates (2022 - 2023):
-    - Python for Everybody Specialization
-    - Google IT Automation with Python Professional Certificate
-    - API and Django Web Framework by Meta
-## MA in Corporate Governance, State University of Management, Moscow, Russia (2004 – 2009)
+## Education
+### Coursera.org Certificates (2022 - 2023):
+- Python for Everybody Specialization
+- Google IT Automation with Python Professional Certificate
+- API and Django Web Framework by Meta
+### MA in Corporate Governance, State University of Management, Moscow, Russia (2004 – 2009)
