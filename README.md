@@ -79,9 +79,9 @@ Technologies:
 
 ## Professional experience
 
-### Whole Foods Market, Inc., Seattle, WA, USA
+## Whole Foods Market, Inc., Seattle, WA, USA
     Team Member (February 2023 - Present)
-### PJSC “Rosseti Moscow Region”, Moscow, Russia
+## PJSC “Rosseti Moscow Region”, Moscow, Russia
     Deputy Director of Department (August 2009 - December 2020)
     Managed corporate governance and shareholder relations, demonstrating leadership and project management skills.
 
