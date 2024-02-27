@@ -79,16 +79,15 @@ Technologies:
 
 # Professional experience
 
-## Whole Foods Market, Inc., Seattle, WA, USA
-    Team Member (February 2023 - Present)
-## PJSC “Rosseti Moscow Region”, Moscow, Russia
-    Deputy Director of Department (August 2009 - December 2020)
-    Managed corporate governance and shareholder relations, demonstrating leadership and project management skills.
+### Whole Foods Market, Inc., Seattle, WA, USA
+Team Member (February 2023 - Present)
+### PJSC “Rosseti Moscow Region”, Moscow, Russia
+Deputy Director of Department (August 2009 - December 2020)
+Managed corporate governance and shareholder relations, demonstrating leadership and project management skills.
 
-## Education
-
-### Coursera.org Certificates (2022 - 2023):
+# Education
+## Coursera.org Certificates (2022 - 2023):
     - Python for Everybody Specialization
     - Google IT Automation with Python Professional Certificate
     - API and Django Web Framework by Meta
-### MA in Corporate Governance, State University of Management, Moscow, Russia (2004 – 2009)
+## MA in Corporate Governance, State University of Management, Moscow, Russia (2004 – 2009)
