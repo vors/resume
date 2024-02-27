@@ -16,8 +16,8 @@
 - Software Engineering Practices: Agile methodologies, Unit Testing, Test-Driven Development
 - Other Skills: Basic algorithms and data structures, LLM prompt engineering, Software Architecture
 
-## Projects
-### Mobile game
+# Projects
+## Mobile game
 GitHub: https://github.com/Ivan-Tiapin/Game_Mobile_Face3D
 
 I created prototype of mobile game on Unity for a client. Game concept based on nonlinear plot, that requires to make choices and solve puzzles. Goal of the puzzles is to set specific face expression of 3D head model. Key features implemented in the project:
@@ -32,7 +32,7 @@ Technologies:
 - C#, Unity3D, Blender, Android
 
 
-### Knowledge base website
+## Knowledge base website
 Website: https://woollymathematics.com/
 
 Project designed to provide access to 18,783 ‘forgotten’ mathematical problems published in 815 issues of the Educational Times between 1848 and 1915.
@@ -47,7 +47,7 @@ Quote from my mentor for this project:
 
 _- Sergei Vorobev (OpenAI, Inc., ???Staff Software Engineer)_
 
-### Telegram chatbot
+## Telegram chatbot
 Telegram: https://t.me/chatgpt_api_translator_bot
 GitHub: https://github.com/Ivan-Tiapin/telegram_bot_translator
 
@@ -60,7 +60,7 @@ Technologies:
 
 - Python, OpenAI ChatGPT API, Telegram Bot API, Asynchronous I/O
 
-### Digital Asset Management Website 
+## Digital Asset Management Website 
 GitHub: https://github.com/Ivan-Tiapin/site_manastudio
 
 The goal of this project was to create a website for a 3D artist studio where they can showcase their work. In the future, the plan is to add e-commerce functionality.
@@ -77,7 +77,7 @@ Technologies:
 - Python, Web (CSS, HTML, Bootstrap), Django, PostgreSQL, ORM, Jinja2, Linux, Git, GitHub
 
 
-## Professional experience
+# Professional experience
 
 ## Whole Foods Market, Inc., Seattle, WA, USA
     Team Member (February 2023 - Present)
