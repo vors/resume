@@ -4,17 +4,17 @@
 - Phone: +19047929351
 - GitHub: https://github.com/Ivan-Tiapin/
 
-# Technical Proficiencies
-- Programming Languages: Python, JavaScript, CSS, HTML, C#, Bash
+# Technical Skills
+- Programming Languages: Python, JavaScript, C#, Bash
 - Web Development: Django, Flask, FastAPI, Jinja2; proficient in both synchronous and asynchronous I/O
-- Front-End: HTML, CSS, Bootstrap, JavaScript
+- Front-End: JavaScript, HTML, CSS, Bootstrap
 - Back-End: Django, Flask, FastAPI
 - APIs: OpenAI ChatGPT, Telegram Bot
 - Databases: PostgreSQL, SQLite
 - DevOps & Tooling: Linux, Git, Docker, GitHub Actions (CI/CD), Selenium
 - Cloud Platforms: Google Cloud (Compute, Artifact Registry, Networking)
 - Software Engineering Practices: Agile methodologies, Unit Testing, Test-Driven Development
-- Other Skills: Basic algorithms and data structures, LLM prompt engineering, Software Architecture
+- Other Skills: Algorithms and data structures, LLM prompt engineering, Software Architecture
 
 # Projects
 ## Mobile game
@@ -45,7 +45,12 @@ Technologies:
 
 Quote from my mentor for this project:
 
-_- Sergei Vorobev (OpenAI, Inc., ???Staff Software Engineer)_
+> I was immensely pleased to work with Ivan on https://woollymathematics.com/.
+> He was eager to work on the core and most complex problem of the website -- search engine.
+> His implementation was practical and maintanable. He was able transition the code to another person with ease.
+> Ivan also was able to creatively solve web-scrapping problem for the original journal PDFs with selenium.
+> I'd recommend considering Ivan for the junior-level software engineer position.
+_- Sergei Vorobev (OpenAI, Inc., Member of Technical Staff)_
 
 ## Telegram chatbot
 Telegram: https://t.me/chatgpt_api_translator_bot
